@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anwar-Rajeev. Working teaching professional in the Mechanical Engineering field. I am very much intersted in Machine Learning and Artificial Intelligence, currently undergoing training in the same.
+- 👋 Hi, I’m @Anwar-Rajeev. Working teaching professional in the Mechanical Engineering field. Currently under going training in Machine Learning and Artificial Intelligence.
 -
 
 <!---
