@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anwar-Rajeev. Working teaching professional in the Mechanical Engineering field. Currently under going training in Machine Learning and Artificial Intelligence.
+- 👋 Hi, I’m @Anwar-Rajeev. Currently working as Data Science and Machine Learning Mentor.
 -
 
 <!---
